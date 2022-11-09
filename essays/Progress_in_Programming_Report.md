@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Progress in Programming Report"
 # All dates must be YYYY-MM-DD format!
-date: 2022-10-03
+date: 2022-11-08
 published: true
 labels:
   - Essay
