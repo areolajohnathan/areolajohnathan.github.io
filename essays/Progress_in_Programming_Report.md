@@ -6,6 +6,8 @@ title: "Progress in Programming Report"
 date: 2022-11-08
 published: true
 labels:
+  - Assignment 1
+  - Progress
   - Essay
 ---
 <h4>1. My programming skills have greatly improved in the following ways:</h4>
