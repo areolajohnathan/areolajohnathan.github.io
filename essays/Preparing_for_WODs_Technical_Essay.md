@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Preparing for WODs Technical Essay"
+title: "Preparing for WODs"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-03
 published: true

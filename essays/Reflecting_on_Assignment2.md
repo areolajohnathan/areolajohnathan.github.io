@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Progress in Programming Report"
+title: "Reflecting on Assignment 2"
 # All dates must be YYYY-MM-DD format!
 date: 2022-11-22
 published: true
